@@ -1,6 +1,21 @@
 {
-            "versionCode": 39,
-            "versionName": "1.39",
-            "apkUrl": "https://github.com/surekha-55/test/releases/download/v1.39/app-release.apk",
-            "releaseNotes": "Bug fixes and performance improvements."
-        }
+  "versionCode": 1,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/surekha-55/TfiberLauncher-Updates/releases/download/v1.1.0/tfiber-launcher.apk",
+  "releaseNotes": "Bug fixes and performance improvements.",
+            
+  "launcher": {
+    "versionCode": 2,
+    "versionName": "1.1.0",
+    "apkUrl": "https://github.com/surekha-55/TfiberLauncher-Updates/releases/download/v1.1.0/tfiber-launcher.apk",
+    "releaseNotes": "Bug fixes and performance improvements."
+  },
+            
+  "ulkalite": {
+    "versionCode": 39,
+    "versionName": "1.39",
+    "apkUrl": "https://github.com/surekha-55/TfiberLauncher-Updates/releases/download/v3.0.0/ulkalite.apk",
+    "releaseNotes": "New ulkalite version with improved performance."
+  }
+            
+}
