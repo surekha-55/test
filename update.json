@@ -1,6 +1,6 @@
 {
             "versionCode": 39,
             "versionName": "1.39",
-            "apkUrl": "https://github.com/surekha-55/test/releases/download/v1.39/app-debug.apk",
+            "apkUrl": "https://github.com/surekha-55/test/releases/download/v1.39/app-release.apk",
             "releaseNotes": "Bug fixes and performance improvements."
         }
