@@ -4,7 +4,13 @@
   "apkUrl": "https://github.com/surekha-55/test/releases/download/v1.2.0/app-release.apk",
   "releaseNotes": "Bug fixes and performance improvements.",
             
-            
+ "launcher": {
+    "versionCode": 2,
+    "versionName": "1.2.0",
+    "apkUrl": "https://github.com/surekha-55/test/releases/download/v1.2.0/app-release.apk",
+    "releaseNotes": "Bug fixes and performance improvements."
+  },
+  
   "ulkalite": {
     "versionCode": 39,
     "versionName": "1.39",
